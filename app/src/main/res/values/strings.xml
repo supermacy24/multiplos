@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multiplos</string>
+    <string name="txtV_verify">Verificar multiplos</string>
+    <string name="btn_verify">Verificar</string>
+    <string name="txtE">Insira um número</string>
+    <string name="txtV_check" />
+</resources>
